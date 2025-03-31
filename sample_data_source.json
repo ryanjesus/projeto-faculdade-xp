@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "4d45beef-7fef-4609-b907-fc33051bbf48",
+        "name": "",
+        "email": "figueroajohn@doyle.net",
+        "age": 29,
+        "registration_date": "2023-08-03T20:46:17",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "fd4434e3-82ff-49cc-a77b-8bb918298f8f",
+        "name": "Brandon Hall",
+        "email": "jennifermiles@robinson-lawrence.com",
+        "age": 38,
+        "registration_date": "2023-08-06T00:24:49",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Christopher Bernard",
+        "email": "daviscolin@yahoo.com",
+        "age": null,
+        "registration_date": "2022-04-01T20:06:18",
+        "is_active": false,
+        "duplicated": true
+    },
+    {
+        "id": null,
+        "name": "Monica Herrera",
+        "email": "arnoldmaria@hotmail.com",
+        "age": null,
+        "registration_date": "2021-08-20T10:04:34",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "e100adab-c56a-476c-926d-01c36fe45c1a",
+        "name": "Amber Perez",
+        "email": null,
+        "age": null,
+        "registration_date": "2020-09-04T21:43:15",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "763600c3-78da-401a-ac5d-f19fa66a1943",
+        "name": "Sharon James",
+        "email": "francisco53@hotmail.com",
+        "age": null,
+        "registration_date": "2020-08-09T20:09:25",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "eeb8a3ba-0bb9-46db-8090-8cb8343fddbc",
+        "name": "",
+        "email": "frankgray@watts.com",
+        "age": null,
+        "registration_date": "2020-04-09T17:34:02",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "64652536-346c-4dea-bc51-ea2af4413f70",
+        "name": "Jennifer Jones",
+        "email": "dianafoster@hotmail.com",
+        "age": 76,
+        "registration_date": "2021-03-19T21:16:40",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "dd6e26f1-d272-471e-9a51-6eb24d64f7dd",
+        "name": "David Hoffman",
+        "email": null,
+        "age": 51,
+        "registration_date": "2023-08-24T02:20:28",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "4d0cab0b-2665-4024-b8b7-6a32b0fca082",
+        "name": "Jennifer Robinson",
+        "email": "ddavis@hernandez.biz",
+        "age": 94,
+        "registration_date": "2020-07-16T08:58:09",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Kyle Mcdonald",
+        "email": "frazierdanny@hotmail.com",
+        "age": 52,
+        "registration_date": "2022-11-22T21:19:18",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "8cb2cb64-ced0-459c-8f06-3aa3517a41a3",
+        "name": "Jeffrey Chavez",
+        "email": "williamrodriguez@hotmail.com",
+        "age": 56,
+        "registration_date": "2024-04-26T06:05:17",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "dfb70531-1e75-47bb-8608-c6775a428db9",
+        "name": "Brittany Farmer",
+        "email": "tracy15@allen-allen.org",
+        "age": null,
+        "registration_date": "2020-09-23T02:47:02",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "",
+        "email": "spenceamanda@gmail.com",
+        "age": 34,
+        "registration_date": "2024-01-16T15:37:21",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "b0f44b06-3320-4018-ae84-cf7c2850b668",
+        "name": "Carmen Rose",
+        "email": "sarahcampos@hotmail.com",
+        "age": null,
+        "registration_date": "2022-08-26T11:15:05",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "9bb25a8f-8ced-42ae-ba04-bca8cd58f4e4",
+        "name": "Michael Brooks",
+        "email": "wrightcaleb@gmail.com",
+        "age": null,
+        "registration_date": "2024-09-16T23:22:56",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Daniel Jones",
+        "email": "carlosjohnson@jones-young.info",
+        "age": 45,
+        "registration_date": "2024-08-02T08:11:47",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "7cad67e7-d72d-4e55-8e9f-a49c3fcb2a55",
+        "name": "Timothy Duncan",
+        "email": "kristenaguirre@gmail.com",
+        "age": 30,
+        "registration_date": "2020-10-28T03:41:06",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "34fbb31e-a9a0-405b-812b-e7f2b0bb2e9b",
+        "name": "Heather Jenkins",
+        "email": null,
+        "age": null,
+        "registration_date": "2020-11-01T18:34:06",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "0cf7e101-5c1b-49b7-b2f0-714d22caf48a",
+        "name": "Nicholas Mcbride",
+        "email": "jamesherrera@henderson.info",
+        "age": 49,
+        "registration_date": "2020-08-22T05:06:17",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "85a69e78-2e2d-47f1-bd04-4ce8bd825800",
+        "name": "Scott Pierce",
+        "email": "novaksara@martin.info",
+        "age": 45,
+        "registration_date": "2023-05-30T23:43:52",
+        "is_active": false,
+        "duplicated": true
+    },
+    {
+        "id": "901cae3f-0942-4de7-a4e1-683b507f1dce",
+        "name": "Carmen Smith",
+        "email": "sara74@yahoo.com",
+        "age": 89,
+        "registration_date": "2024-02-21T00:51:03",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "4b33d829-4cc6-4b8c-918e-3d4f341cf142",
+        "name": "Edward Novak",
+        "email": "brian97@calhoun.net",
+        "age": null,
+        "registration_date": "2021-07-31T08:06:49",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Barry Hensley",
+        "email": "davidashley@hotmail.com",
+        "age": 94,
+        "registration_date": "2020-05-03T11:21:11",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "e4895477-ba67-455e-9adb-c0dd5db4aa06",
+        "name": "Jennifer Silva",
+        "email": null,
+        "age": 84,
+        "registration_date": "2022-09-09T22:14:43",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "eb3f9f3e-12ef-4e85-9563-7b8e9ed9d397",
+        "name": "Christina Moran",
+        "email": "randy47@hickman-walls.com",
+        "age": null,
+        "registration_date": "2024-10-15T03:50:54",
+        "is_active": false,
+        "duplicated": true
+    },
+    {
+        "id": "21057229-b2e5-4525-ae77-d322195ac34e",
+        "name": "Angel Lewis MD",
+        "email": "suarezmike@gmail.com",
+        "age": null,
+        "registration_date": "2024-08-14T17:16:00",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "ad36ab1c-e37e-465a-88d9-f45553b1f7ce",
+        "name": "Lisa Archer",
+        "email": "sarah12@wilson-rodriguez.net",
+        "age": null,
+        "registration_date": "2022-04-26T03:45:17",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "a4503cd6-de56-4345-8ca0-b119b031cd21",
+        "name": "Daniel Cooper",
+        "email": "dking@gmail.com",
+        "age": null,
+        "registration_date": "2023-08-09T00:05:55",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "d7379a49-55ea-410f-9d35-b5d5f7bb46ad",
+        "name": "Amanda Cook",
+        "email": null,
+        "age": 34,
+        "registration_date": "2022-03-24T20:48:01",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "15369392-9fbe-4d38-990b-908e3292da12",
+        "name": "Jeremy Thornton",
+        "email": "jonesnicole@gardner.org",
+        "age": 88,
+        "registration_date": "2021-04-05T02:40:23",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "6dd01a5e-3cb2-44c7-8497-8af39a68c3af",
+        "name": "Andrew Diaz",
+        "email": "jason31@deleon-henson.biz",
+        "age": null,
+        "registration_date": "2021-04-25T04:19:55",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "9bd1e84a-0757-42ac-8dc5-0e219b6582e7",
+        "name": "Cynthia Martin",
+        "email": "vjohnson@patton-jenkins.com",
+        "age": 52,
+        "registration_date": "2021-05-09T14:39:05",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "9c749750-e8c6-4d03-9ad5-ce122f97c8cb",
+        "name": "Ashley Brennan",
+        "email": "jamessellers@yahoo.com",
+        "age": 57,
+        "registration_date": "2021-12-08T02:44:59",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": null,
+        "name": "Matthew Ross",
+        "email": "rasmussenjoshua@hotmail.com",
+        "age": null,
+        "registration_date": "2023-05-26T18:10:49",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Sarah Rivera",
+        "email": "wileyjose@estes.biz",
+        "age": null,
+        "registration_date": "2022-09-01T13:28:33",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "c1ff9408-b55a-4183-b21c-9e62dd6b9962",
+        "name": "William Wilson",
+        "email": "bradley60@frost.com",
+        "age": null,
+        "registration_date": "2023-09-01T23:51:54",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "a3c22886-8bf4-4315-a89b-fd7ae5ba0acb",
+        "name": "Matthew Rivera",
+        "email": null,
+        "age": 58,
+        "registration_date": "2021-01-22T04:44:13",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "8c3db1d5-278a-4ea2-8e13-b2ec08d4ae6f",
+        "name": "Elizabeth Parker",
+        "email": "richard48@gmail.com",
+        "age": 42,
+        "registration_date": "2023-07-30T06:45:03",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "975c49f2-df90-487d-a6ee-b556d932837f",
+        "name": "Jamie Adkins",
+        "email": null,
+        "age": null,
+        "registration_date": "2024-11-03T03:33:49",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "39b0bf73-564d-4eda-a6f0-91cff99f166f",
+        "name": "Joshua Smith",
+        "email": "russellcarpenter@hotmail.com",
+        "age": 59,
+        "registration_date": "2023-12-15T16:01:56",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "504d6126-f3cf-4a11-945a-b3be46bf8866",
+        "name": "Michael Dixon",
+        "email": "campbellelizabeth@rogers.com",
+        "age": null,
+        "registration_date": "2021-09-10T16:12:14",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "05b9d1b6-2b42-4e4e-bfa4-596ab8da3b83",
+        "name": "Angel Riggs",
+        "email": null,
+        "age": 96,
+        "registration_date": "2020-08-14T06:27:59",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "f4617bf7-10ab-4df1-93b7-e4eb80ff9178",
+        "name": "Stephen Johnston",
+        "email": "jross@hotmail.com",
+        "age": 18,
+        "registration_date": "2020-11-27T03:43:29",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "8188c393-bf74-4e99-af58-0d2459eaeb0f",
+        "name": "Colleen Brock",
+        "email": "grantsamantha@gmail.com",
+        "age": 76,
+        "registration_date": null,
+        "is_active": false,
+        "duplicated": true
+    },
+    {
+        "id": "372e2b3b-ea43-462c-9f4e-9a3306c510bc",
+        "name": "John Schmidt",
+        "email": "usalazar@hotmail.com",
+        "age": 72,
+        "registration_date": "2024-08-29T04:17:37",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "1a7ccd48-13c3-4324-8dac-1a164923ef64",
+        "name": "Christopher Hensley",
+        "email": "karen48@yahoo.com",
+        "age": 98,
+        "registration_date": "2022-01-13T07:27:53",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "66b1edd9-d908-4842-accf-e72fa7f6376b",
+        "name": "Billy Mitchell",
+        "email": "luis81@gmail.com",
+        "age": 37,
+        "registration_date": "2021-12-19T12:06:21",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "eb3577e7-ce9d-4dae-9ad3-7ff50da5c5ee",
+        "name": "Christian Lewis",
+        "email": "drivera@yahoo.com",
+        "age": 25,
+        "registration_date": "2021-10-04T14:41:23",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Jean Carrillo",
+        "email": "wwoods@molina-castaneda.biz",
+        "age": null,
+        "registration_date": "2024-08-23T18:34:34",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "c8d4d4a2-61a7-482e-8658-370c0be73cd5",
+        "name": "Stephanie Freeman",
+        "email": "ytucker@yahoo.com",
+        "age": 69,
+        "registration_date": "2021-05-27T18:37:37",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "49bc5e6e-53af-40fc-9dfd-1499c47620fa",
+        "name": "Tamara Hooper",
+        "email": "qvargas@miller.com",
+        "age": null,
+        "registration_date": "2021-07-18T14:41:54",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "01120ab7-cd83-4433-8a7a-9c9e62a439cb",
+        "name": "James Lewis",
+        "email": "kathleen64@yahoo.com",
+        "age": 50,
+        "registration_date": "2020-09-11T11:22:16",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "36fd1223-4780-4b29-995e-b6cefe1beede",
+        "name": "Paul Williams",
+        "email": "debraharrington@hotmail.com",
+        "age": 23,
+        "registration_date": "2020-04-06T09:45:51",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "96b55787-6036-40dd-9cad-bf6cce25879c",
+        "name": "",
+        "email": "maryhowell@martinez.com",
+        "age": 90,
+        "registration_date": "2021-11-08T04:36:51",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "287da957-c7de-4761-bd71-fc6b51b6c49d",
+        "name": "David Wood",
+        "email": "tamirodriguez@hickman.biz",
+        "age": 68,
+        "registration_date": "2021-09-08T04:32:24",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "d3ef8077-3c6b-4814-9229-54a0274d602c",
+        "name": "Michael Burton",
+        "email": "melissa91@patton.com",
+        "age": 26,
+        "registration_date": "2024-04-20T23:10:15",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "dbda726e-461e-4b79-b9bb-6dd0cf7b1011",
+        "name": "Alexandria Fisher",
+        "email": "hamiltonmichael@yahoo.com",
+        "age": 37,
+        "registration_date": "2023-09-15T00:16:30",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "4bf7117f-fd55-4cfa-a412-0a243d774ecf",
+        "name": "Joseph Santos",
+        "email": "ugraham@hotmail.com",
+        "age": null,
+        "registration_date": "2022-09-28T08:46:16",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "12b61144-3251-4859-b414-4a79cb80826a",
+        "name": "Sandra Miller",
+        "email": "karenhudson@hotmail.com",
+        "age": null,
+        "registration_date": "2022-11-11T03:33:01",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "5968c46d-bb34-4ee4-b19a-0b31d36064de",
+        "name": "Samuel White",
+        "email": "lauren54@haynes.com",
+        "age": 28,
+        "registration_date": "2022-01-19T20:48:41",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "66189ddb-d90f-4a79-9d1c-1156b70703f1",
+        "name": "Katherine Chang",
+        "email": null,
+        "age": null,
+        "registration_date": "2024-03-04T22:17:28",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "109227b3-9e1b-4f4e-8bd5-3aa858f7972a",
+        "name": "Alan Phillips",
+        "email": "kevinperkins@yahoo.com",
+        "age": 88,
+        "registration_date": "2024-07-07T12:24:31",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "934fdd30-bb0d-4ea5-8da9-120b24e4a9db",
+        "name": "Zachary Pierce",
+        "email": "qnelson@gmail.com",
+        "age": null,
+        "registration_date": "2021-08-21T08:07:32",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "ce16e737-c876-4f19-842f-1595b130db93",
+        "name": "Patrick Tapia",
+        "email": "javierwashington@lawrence.com",
+        "age": null,
+        "registration_date": "2022-07-09T09:44:14",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "9073e030-9d0b-429e-ae08-1d22b132f3af",
+        "name": "Christopher Smith",
+        "email": "brandon08@terry-martinez.info",
+        "age": null,
+        "registration_date": "2020-02-08T02:34:28",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "02c92eac-648c-4181-ae1b-2035522805f5",
+        "name": "Julie Alexander",
+        "email": "kingmichelle@short.info",
+        "age": null,
+        "registration_date": "2020-06-15T13:22:56",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "5ae72f5f-226e-4a05-a4ba-bccd8e924038",
+        "name": "Robert Avery",
+        "email": "davidduran@carlson.biz",
+        "age": 75,
+        "registration_date": "2023-10-07T11:40:14",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "d4de1e61-8b8c-4624-bc0a-a26531ad8a38",
+        "name": "Kevin Patterson",
+        "email": "mezajared@baker.com",
+        "age": null,
+        "registration_date": "2021-06-24T00:28:39",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "207b4337-e765-4aa6-a0cd-20bfcffd6237",
+        "name": "Brooke Ortiz",
+        "email": "antonio44@hotmail.com",
+        "age": 76,
+        "registration_date": "2020-08-09T03:32:51",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "f4649cd8-d4dc-4921-b1e8-d2c2492ff816",
+        "name": "Tammy French",
+        "email": "owilson@hernandez.com",
+        "age": null,
+        "registration_date": "2022-08-13T17:11:56",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "d6a9f469-c42c-4bdd-abbb-84f7efdc0337",
+        "name": "Samantha Morse",
+        "email": "harrisonkevin@yahoo.com",
+        "age": null,
+        "registration_date": "2024-04-03T21:54:37",
+        "is_active": false,
+        "duplicated": true
+    },
+    {
+        "id": "4ab4fcd9-5e4f-4514-a5e1-ceba5bc32a4f",
+        "name": "Jessica George",
+        "email": "cassandra01@gmail.com",
+        "age": 91,
+        "registration_date": "2020-03-05T10:53:35",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "4018fc2a-d6f6-4d87-a8b0-df6846729200",
+        "name": "Miss Debra Williams PhD",
+        "email": "lmoon@hotmail.com",
+        "age": 73,
+        "registration_date": "2024-03-07T17:43:59",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "52900772-8211-4bd9-87ef-b750c61d2a17",
+        "name": "Julie Ortiz",
+        "email": "hodgemark@hotmail.com",
+        "age": null,
+        "registration_date": "2022-06-14T11:04:35",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "42757b25-a66b-469d-ab83-22c7fcd856eb",
+        "name": "Jennifer Hodges",
+        "email": "qmiller@wilson-barton.net",
+        "age": 18,
+        "registration_date": "2024-08-12T18:42:38",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "3ca659f5-6b5e-4506-984d-0f37ef4d3457",
+        "name": "Anthony Stone",
+        "email": null,
+        "age": 97,
+        "registration_date": "2024-03-28T18:20:22",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "422e78dc-d5a9-45ba-af4d-00b7d816feab",
+        "name": "Olivia Harris",
+        "email": "samuel71@dudley.com",
+        "age": null,
+        "registration_date": "2022-08-23T11:12:35",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "a268daad-f5a3-49ab-84cc-227a455a27a9",
+        "name": "Kristen Davis",
+        "email": "pvalentine@jimenez.com",
+        "age": null,
+        "registration_date": "2022-04-29T12:02:16",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "9d1f0d07-b918-4efc-8a3a-02910df67186",
+        "name": "John Kennedy",
+        "email": "patrickweeks@hotmail.com",
+        "age": 35,
+        "registration_date": "2020-08-04T21:25:01",
+        "is_active": false,
+        "duplicated": true
+    },
+    {
+        "id": "73f660b9-5584-4c60-b994-07d3883e9ec5",
+        "name": "Richard Perry",
+        "email": "campbellkenneth@hotmail.com",
+        "age": 92,
+        "registration_date": "2024-03-01T06:13:48",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Jill Washington",
+        "email": null,
+        "age": null,
+        "registration_date": "2024-09-10T17:56:43",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "9ef1b58a-310e-4d7c-8dce-67546357e2ea",
+        "name": "Jamie Cantu",
+        "email": "ashleyhall@williams-garner.biz",
+        "age": 67,
+        "registration_date": "2021-04-17T13:47:40",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "5b4c2581-38a8-49dc-a6f8-f869ba6dca0d",
+        "name": "Andrew Shaw MD",
+        "email": "dgarcia@bowen.com",
+        "age": null,
+        "registration_date": "2023-12-29T15:45:23",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": null,
+        "name": "Deborah Hanson",
+        "email": "christianmelissa@hotmail.com",
+        "age": null,
+        "registration_date": "2022-09-10T19:58:01",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "b1941bae-cef0-4fcd-ba1f-55d15090e0a0",
+        "name": "Stacy Freeman",
+        "email": "younggabrielle@bright-francis.biz",
+        "age": null,
+        "registration_date": "2020-11-08T06:21:46",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "a88b8944-b1b6-458b-9202-fba161cc00c0",
+        "name": "Michael Berger",
+        "email": "laura45@jordan-sanchez.biz",
+        "age": 90,
+        "registration_date": "2021-07-13T10:00:53",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "c311a34d-4150-4e6c-b5b3-9eaa8c48f653",
+        "name": "Bob Pitts",
+        "email": "jdurham@murray.info",
+        "age": null,
+        "registration_date": "2020-01-30T04:43:23",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "661bcd70-9592-40d7-bba8-63da44039a80",
+        "name": "Julie Roberts",
+        "email": "alexandermichael@evans.info",
+        "age": null,
+        "registration_date": "2021-09-10T22:41:45",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "e5816522-c988-4015-ba85-cf88ad60adcf",
+        "name": "Dr. Ashley James MD",
+        "email": "andrew64@gmail.com",
+        "age": null,
+        "registration_date": "2020-06-01T09:00:14",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "fdb4ff5b-87df-4686-9ad7-e1ea398541a0",
+        "name": "Natasha Wall",
+        "email": "catherinegomez@hotmail.com",
+        "age": 42,
+        "registration_date": "2022-02-17T16:05:18",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "afb8fbd3-3c35-4374-9f94-6c1d5e4f4b9d",
+        "name": "Michelle Hopkins",
+        "email": "bergerdebbie@kramer-johnson.com",
+        "age": 34,
+        "registration_date": "2020-10-07T00:49:53",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "cfeefc7c-957b-48ce-a8aa-d70d86457a68",
+        "name": "",
+        "email": "julie23@gmail.com",
+        "age": null,
+        "registration_date": null,
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "0095b36b-aea7-4b42-b6ce-d2854e800b56",
+        "name": "Holly Shaw",
+        "email": "jonathansummers@yahoo.com",
+        "age": null,
+        "registration_date": "2022-11-18T08:26:23",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "cff4cf07-0f74-43e8-b703-84ea1c2bb87f",
+        "name": "Julie Jones",
+        "email": "zcoffey@diaz.net",
+        "age": 33,
+        "registration_date": "2023-11-13T23:18:15",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Paul Baker",
+        "email": "daniel37@gmail.com",
+        "age": 97,
+        "registration_date": "2024-10-10T05:34:06",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "41df657f-93ef-44bb-95bb-52b791133603",
+        "name": "Leonard Holland",
+        "email": "debra12@gmail.com",
+        "age": 22,
+        "registration_date": "2022-08-03T15:04:04",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "63489d99-83a1-4ac3-a6b9-49e64b0d17f3",
+        "name": "Audrey Young DDS",
+        "email": "vwatson@hotmail.com",
+        "age": null,
+        "registration_date": "2023-07-26T04:21:21",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "d2c05640-276b-42e1-9e49-d6da493b557a",
+        "name": "Molly Mcclure",
+        "email": "rgilbert@vaughn.info",
+        "age": 74,
+        "registration_date": "2022-01-03T13:50:03",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "8ec398eb-65ff-45d4-a6ed-5ccbe8c78966",
+        "name": "Ariana Jennings",
+        "email": null,
+        "age": null,
+        "registration_date": "2023-01-19T08:39:37",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "d7379a49-55ea-410f-9d35-b5d5f7bb46ad",
+        "name": "Amanda Cook",
+        "email": null,
+        "age": 34,
+        "registration_date": "2022-03-24T20:48:01",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "c1ff9408-b55a-4183-b21c-9e62dd6b9962",
+        "name": "William Wilson",
+        "email": "bradley60@frost.com",
+        "age": null,
+        "registration_date": "2023-09-01T23:51:54",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "fdb4ff5b-87df-4686-9ad7-e1ea398541a0",
+        "name": "Natasha Wall",
+        "email": "catherinegomez@hotmail.com",
+        "age": 42,
+        "registration_date": "2022-02-17T16:05:18",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "c1ff9408-b55a-4183-b21c-9e62dd6b9962",
+        "name": "William Wilson",
+        "email": "bradley60@frost.com",
+        "age": null,
+        "registration_date": "2023-09-01T23:51:54",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "e5816522-c988-4015-ba85-cf88ad60adcf",
+        "name": "Dr. Ashley James MD",
+        "email": "andrew64@gmail.com",
+        "age": null,
+        "registration_date": "2020-06-01T09:00:14",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "4bf7117f-fd55-4cfa-a412-0a243d774ecf",
+        "name": "Joseph Santos",
+        "email": "ugraham@hotmail.com",
+        "age": null,
+        "registration_date": "2022-09-28T08:46:16",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "4d0cab0b-2665-4024-b8b7-6a32b0fca082",
+        "name": "Jennifer Robinson",
+        "email": "ddavis@hernandez.biz",
+        "age": 94,
+        "registration_date": "2020-07-16T08:58:09",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "c311a34d-4150-4e6c-b5b3-9eaa8c48f653",
+        "name": "Bob Pitts",
+        "email": "jdurham@murray.info",
+        "age": null,
+        "registration_date": "2020-01-30T04:43:23",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "d7379a49-55ea-410f-9d35-b5d5f7bb46ad",
+        "name": "Amanda Cook",
+        "email": null,
+        "age": 34,
+        "registration_date": "2022-03-24T20:48:01",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "9c749750-e8c6-4d03-9ad5-ce122f97c8cb",
+        "name": "Ashley Brennan",
+        "email": "jamessellers@yahoo.com",
+        "age": 57,
+        "registration_date": "2021-12-08T02:44:59",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "d7379a49-55ea-410f-9d35-b5d5f7bb46ad",
+        "name": "Amanda Cook",
+        "email": null,
+        "age": 34,
+        "registration_date": "2022-03-24T20:48:01",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "c1ff9408-b55a-4183-b21c-9e62dd6b9962",
+        "name": "William Wilson",
+        "email": "bradley60@frost.com",
+        "age": null,
+        "registration_date": "2023-09-01T23:51:54",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "73f660b9-5584-4c60-b994-07d3883e9ec5",
+        "name": "Richard Perry",
+        "email": "campbellkenneth@hotmail.com",
+        "age": 92,
+        "registration_date": "2024-03-01T06:13:48",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "42757b25-a66b-469d-ab83-22c7fcd856eb",
+        "name": "Jennifer Hodges",
+        "email": "qmiller@wilson-barton.net",
+        "age": 18,
+        "registration_date": "2024-08-12T18:42:38",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": null,
+        "name": "Deborah Hanson",
+        "email": "christianmelissa@hotmail.com",
+        "age": null,
+        "registration_date": "2022-09-10T19:58:01",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "fdb4ff5b-87df-4686-9ad7-e1ea398541a0",
+        "name": "Natasha Wall",
+        "email": "catherinegomez@hotmail.com",
+        "age": 42,
+        "registration_date": "2022-02-17T16:05:18",
+        "is_active": false,
+        "duplicated": false
+    },
+    {
+        "id": "eb3f9f3e-12ef-4e85-9563-7b8e9ed9d397",
+        "name": "Christina Moran",
+        "email": "randy47@hickman-walls.com",
+        "age": null,
+        "registration_date": "2024-10-15T03:50:54",
+        "is_active": false,
+        "duplicated": true
+    },
+    {
+        "id": "96b55787-6036-40dd-9cad-bf6cce25879c",
+        "name": "",
+        "email": "maryhowell@martinez.com",
+        "age": 90,
+        "registration_date": "2021-11-08T04:36:51",
+        "is_active": true,
+        "duplicated": true
+    },
+    {
+        "id": "b0f44b06-3320-4018-ae84-cf7c2850b668",
+        "name": "Carmen Rose",
+        "email": "sarahcampos@hotmail.com",
+        "age": null,
+        "registration_date": "2022-08-26T11:15:05",
+        "is_active": true,
+        "duplicated": false
+    },
+    {
+        "id": "207b4337-e765-4aa6-a0cd-20bfcffd6237",
+        "name": "Brooke Ortiz",
+        "email": "antonio44@hotmail.com",
+        "age": 76,
+        "registration_date": "2020-08-09T03:32:51",
+        "is_active": false,
+        "duplicated": false
+    }
+]
